@@ -5,3 +5,5 @@ Part 1 : Setting up the Databases, Schemas, Tables, Roles and Warehouses via SQL
 Part 2 : Data Collaboration with external weather data from the snowflake marketplace
 
 Part 3 : Adding Point of Interest(POI) data to enhance Geospatial analysis of sales
+
+Reset : Allows you to reset your snowflake by dropping the databases and warehouses
